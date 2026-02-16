@@ -2,3 +2,8 @@
 *.ipynb
 *.ipynb_checkpoints
 *lightning_logs
+
+train_model_personal.py
+10_cv_slurm_personal.sh
+
+/experiments
